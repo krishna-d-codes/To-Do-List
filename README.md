@@ -1,30 +1,27 @@
-# To-Do-List
-✅ To-Do List App
-A clean, minimal, and offline Android task manager built using Java and XML
+# To-Do List Android App
 
-📱 Features:
-✅ Add, edit, and delete tasks easily
+A beautiful and feature-rich To-Do List app built using Java and XML in Android Studio.
 
-✅ 24-hour auto-delete toggle (choose between auto or manual retention)
+## ✨ Features:
+- ✅ Task Creation, Editing & Deletion
+- 🌙 Dark Mode Toggle
+- 🔁 24-Hour Auto Delete Toggle
+- 🔤 Font Size Customization
+- 📊 Live Task Progress Percentage
+- 📱 Offline Usage with Minimal UI
+- ⚙️ Settings Panel with Full Control
 
-✅ Dark mode and font size adjustment
 
-✅ Progress bar showing task completion percentage
+## 🚀 Tech Stack:
+- Java
+- XML
+- Android Studio
+- SharedPreferences
 
-✅ Select All + Bulk Delete support
+## 🙋‍♂️ Author
+**Krishna Dighe**  
+Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe)
 
-✅ Lightweight and works completely offline
-
-✅ Customizable via Settings screen
-
-🔧 Built With:
-Java
-
-Android Studio
-
-XML for UI
-
-SQLite for data storage
 
 🧠 Inspiration:
 This app was created as a personal productivity tool for organizing daily tasks and enhancing focus. Inspired by minimal design, the goal was to make something clean, efficient, and user-friendly for all age groups.
