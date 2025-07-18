@@ -20,7 +20,7 @@ A beautiful and feature-rich To-Do List app built using Java and XML in Android 
 
 ## 🙋‍♂️ Author
 **Krishna Dighe**  
-Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe)
+Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe410)
 
 
 🧠 Inspiration:
